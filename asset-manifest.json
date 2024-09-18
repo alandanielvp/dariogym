@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dariogym/static/css/main.f855e6bc.css",
+    "main.js": "/dariogym/static/js/main.044707e6.js",
+    "static/js/453.ed3810f9.chunk.js": "/dariogym/static/js/453.ed3810f9.chunk.js",
+    "static/media/dario.jpg": "/dariogym/static/media/dario.336117cf19829c3b199f.jpg",
+    "index.html": "/dariogym/index.html",
+    "main.f855e6bc.css.map": "/dariogym/static/css/main.f855e6bc.css.map",
+    "main.044707e6.js.map": "/dariogym/static/js/main.044707e6.js.map",
+    "453.ed3810f9.chunk.js.map": "/dariogym/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.044707e6.js"
+  ]
+}
